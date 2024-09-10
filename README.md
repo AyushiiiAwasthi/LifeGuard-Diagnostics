@@ -38,3 +38,5 @@ After installing all dependencies, you can run the application:
 ```bash
 streamlit run app.py
 ```
+## Working App
+![Working app](./image.png)
